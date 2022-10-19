@@ -22,6 +22,30 @@ let updateTimer;
 
 const music_list = [
     {
+        img : 'images/Al-Hashr.jpg',
+        name : 'Al-Hashr',
+        artist : 'Saad Al Ghamdi',
+        music : 'music/Al-Hashr.mp3'
+    },
+    {
+        img : 'images/An-Najm.jpg',
+        name : 'An-Najm',
+        artist : 'Mishary Rashid Al-Afasy',
+        music : 'music/An-Najm.mp3'
+    },
+    {
+        img : 'images/Al-Hujurat.jpg',
+        name : 'Al-Hujurat',
+        artist : 'Wadih Al Yamani',
+        music : 'music/Al-Hujurat.mp3'
+    },
+    {
+        img : 'images/Al-Mulk.jpg',
+        name : 'Al-Mulk',
+        artist : 'Abdulrahman Al Ossi',
+        music : 'music/Al-Mulk.mp3'
+    },
+    {
         img : 'images/Al-Fath.jpg',
         name : 'Al-Fath',
         artist : 'Al Shatri',
@@ -32,12 +56,6 @@ const music_list = [
         name : 'Al-Waqiah',
         artist : 'Abdulaziz Az Zahrani',
         music : 'music/Al-Waqiah.mp3'
-    },
-    {
-        img : 'images/Al-Mulk.jpg',
-        name : 'Al-Mulk',
-        artist : 'Abdulrahman Al Ossi',
-        music : 'music/Al-Mulk.mp3'
     },
     {
         img : 'images/As-Sajdah.jpg',

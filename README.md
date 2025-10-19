@@ -1,6 +1,7 @@
 # Surah Player
 
 A surah is a chapter in the Quran, A web-based Surah Player application built with JavaScript, HTML, and CSS, designed to play Quranic Surah recitations. This lightweight, static website allows users to listen to and navigate through Surah audio files with an intuitive interface.
+Checkout here: https://surah-player.netlify.app/ 
 
 ## Features
 - **Audio Playback**: Play and pause Surah recitations stored in the `music` folder.
